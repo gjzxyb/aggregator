@@ -10,7 +10,10 @@
 > 拥有灵活的插件系统，如果目标网站特殊，现有功能未能覆盖，可针对性地通过插件实现
 
 > 欢迎 Star 及 PR。对于质量较高且普适的爬取目标，亦可在 Issues 中列出，将在评估后选择性添加
-
+代码仓库：https://github.com/mailto5476/aggregator
+创建Gist_ID：https://gist.github.com/
+创建token：https://github.com/settings/personal-access-tokens
+生成订阅链接：https://gist.githubusercontent.com/mailto5476/420d52b883bf8de409b7915c6e8d0309/raw/clash.yaml
 ## 使用方法
 > 略，自行探索。我才不会告诉你入口是 `collect.py` 和 `process.py`。**强烈建议使用后者，前者只是个小玩具**，配置参考 `subscribe/config/config.default.json`
 
